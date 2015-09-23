@@ -1,0 +1,9 @@
+def PrimeMover(num)
+
+  # code goes here
+  Prime.each(10000) do |prime|
+    n << prime
+  end
+  return n.index(num-1)
+         
+end
