@@ -2,7 +2,7 @@
 class MergeSort
   def self.sort(array)
     
-    return array if array.size <= 1
+    return array if array_is_empty_or_has_one_element?
     left = self.sort array[0, array.size / 2]
     right = self.sort array[array.size / 2, array.size]
 
@@ -10,6 +10,10 @@ class MergeSort
   end
 
   private
+
+  def self.array_is_empty_or_has_one_element?
+    array.size <= 1 
+  end
   
   def self.merge(left, right)
     result = []

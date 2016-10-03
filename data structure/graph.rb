@@ -1,8 +1,11 @@
 # graph.rb
+# adjency list implementation
 class Graph 
 
-  def initialize(*edges)
-    
+  def initialize(name=nil)
+    @name = name
+    @node = {}
+    @edge = {}
   end
   
   def adjacent(G, x, y)

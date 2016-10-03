@@ -1,0 +1,31 @@
+The report will contain link present in given the URL followed by its HTTP code.
+link : http://www.google.co.in/imghp?hl=en&tab=wi,  status : 200 
+link : http://maps.google.co.in/maps?hl=en&tab=wl,  status : 302 
+link : https://play.google.com/?hl=en&tab=w8,  status : 302 
+link : http://www.youtube.com/?gl=IN&tab=w1,  status : 301 
+link : http://news.google.co.in/nwshp?hl=en&tab=wn,  status : 200 
+link : https://mail.google.com/mail/?tab=wm,  status : 302 
+link : https://drive.google.com/?tab=wo,  status : 200 
+link : https://www.google.co.in/intl/en/options/,  status : 301 
+link : http://www.google.co.in/history/optout?hl=en,  status : 302 
+link : /preferences?hl=en,  status : Invalid uri 
+link : https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=http://www.google.co.in/,  status : 200 
+link : /chrome/browser/?hl=en&brand=CHNG&utm_source=en-hpp&utm_medium=hpp&utm_campaign=en,  status : Invalid uri 
+link : /advanced_search?hl=en-IN&authuser=0,  status : Invalid uri 
+link : /language_tools?hl=en-IN&authuser=0,  status : Invalid uri 
+link : http://www.google.co.in/setprefs?sig=0_xgB-RapSPfPvPE0pDClwPlPOYWk%3D&hl=hi&source=homepage,  status : 302 
+link : http://www.google.co.in/setprefs?sig=0_xgB-RapSPfPvPE0pDClwPlPOYWk%3D&hl=bn&source=homepage,  status : 302 
+link : http://www.google.co.in/setprefs?sig=0_xgB-RapSPfPvPE0pDClwPlPOYWk%3D&hl=te&source=homepage,  status : 302 
+link : http://www.google.co.in/setprefs?sig=0_xgB-RapSPfPvPE0pDClwPlPOYWk%3D&hl=mr&source=homepage,  status : 302 
+link : http://www.google.co.in/setprefs?sig=0_xgB-RapSPfPvPE0pDClwPlPOYWk%3D&hl=ta&source=homepage,  status : 302 
+link : http://www.google.co.in/setprefs?sig=0_xgB-RapSPfPvPE0pDClwPlPOYWk%3D&hl=gu&source=homepage,  status : 302 
+link : http://www.google.co.in/setprefs?sig=0_xgB-RapSPfPvPE0pDClwPlPOYWk%3D&hl=kn&source=homepage,  status : 302 
+link : http://www.google.co.in/setprefs?sig=0_xgB-RapSPfPvPE0pDClwPlPOYWk%3D&hl=ml&source=homepage,  status : 302 
+link : http://www.google.co.in/setprefs?sig=0_xgB-RapSPfPvPE0pDClwPlPOYWk%3D&hl=pa&source=homepage,  status : 302 
+link : /intl/en/ads/,  status : Invalid uri 
+link : http://www.google.co.in/services/,  status : 200 
+link : https://plus.google.com/104205742743787718296,  status : 302 
+link : /intl/en/about.html,  status : Invalid uri 
+link : http://www.google.co.in/setprefdomain?prefdom=US&sig=__ytLTQh1Qqvv8bZpQvfIwN2gMR7U%3D,  status : 302 
+link : /intl/en/policies/privacy/,  status : Invalid uri 
+link : /intl/en/policies/terms/,  status : Invalid uri 
